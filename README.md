@@ -35,4 +35,4 @@ Todos os jogos devem estar disponíveis em uma plataforma pública de compartilh
 Contato
 ============
 
-Para entrar em contato basta criar uma **issue** no projeto ou através da lista de discussão [ubizengames@googlegroups.com](ubizengames@googlegroups.com).
+Para entrar em contato basta criar uma **issue** no projeto ou através da lista de discussão [ubizengames@googlegroups.com](mailto:ubizengames@googlegroups.com).
