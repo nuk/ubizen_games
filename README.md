@@ -7,17 +7,25 @@ UbiZen Games
 ==========
 
 Este curso é uma evolução do curso ministrado em 01/2013.
-O curso anterior se encontra disponível no *slide share* [  ].
+O curso anterior se encontra disponível no *slide share* [ [0](http://pt.slideshare.net/nukdf/ubi-zen-0-introduo) ,
+[1.1](http://pt.slideshare.net/nukdf/ubi-zen-11-ubicomp) ,
+[1.2](http://pt.slideshare.net/nukdf/ubi-zen-12-desafios-da-ubicomp) ,
+[2.1](http://pt.slideshare.net/nukdf/ubi-zen-21-por-que-middlewares-18335801) ,
+[2.2](http://pt.slideshare.net/nukdf/ubi-zen-22-middlewares-para-ubicomp) ,
+[3.1](http://pt.slideshare.net/nukdf/ubi-zen-31-plataforma-unbiquitous-dsoa) ,
+[3.2](http://pt.slideshare.net/nukdf/ubi-zen-32-plataforma-unbiquitous-up-e-uos) ,
+[4](http://pt.slideshare.net/nukdf/ubi-zen-41-sensibilidade-a-contexto) ,
+[5](http://pt.slideshare.net/nukdf/ubi-zen-5-interfaces-ubquas) ].
 
 Este curso é composto por 7 módulos:
 
-*# O que é Computação Ubíqua
-*# Jogos Ubíquos
-*# Brainstorm
-*# Míddlewares para Computação Ubíqua
-*# Plataforma UbiquitOS: DSOA, uP,e uOS
-*# Sensibilidade a Contexto
-*# Interfaces Ubíquas
+0. O que é Computação Ubíqua
+0. Jogos Ubíquos
+0. Brainstorm
+0. Míddlewares para Computação Ubíqua
+0. Plataforma UbiquitOS: DSOA, uP,e uOS
+0. Sensibilidade a Contexto
+0. Interfaces Ubíquas
 
 As apresentações de cada módulo bem como as anotações de aula se econtram na pasta **/slides**.
 
