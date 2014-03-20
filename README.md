@@ -21,11 +21,11 @@ Este curso é composto por 7 módulos:
 
 0. O que é Computação Ubíqua
 0. Jogos Ubíquos
-0. Brainstorm
 0. Míddlewares para Computação Ubíqua
 0. Plataforma UbiquitOS: DSOA, uP,e uOS
 0. Sensibilidade a Contexto
 0. Interfaces Ubíquas
+0. Jogos Reconfiguráveis
 
 As apresentações de cada módulo bem como as anotações de aula se econtram na pasta **/slides**.
 
