@@ -31,6 +31,12 @@ As apresentações de cada módulo bem como as anotações de aula se econtram n
 
 Uma lista de jogos ubíquos de referência pode ser encontrada [aqui](https://github.com/nuk/ubizen_games/wiki/List-of-ubigames)
 
+Datas Importantes
+============
+ * 05/04 - Prazo Limite para registrar se vai fazer o trabalho em dupla ou individual.
+ * 19/04 - Prazo Limite para ter a primeira versão da Definição do Jogo
+ * 28/06 - Apresentação Final e Baseline do Código Fonte a ser avaliado.
+
 Entregáveis
 ===========
 
@@ -38,6 +44,28 @@ Ao longo do curso cada aluno (ou dupla) deverá desenvolver um jogo ubíquo util
 
 Este jogo deverá ser apresentado no dia 10/06 (passível de alteração).
 Todos os jogos devem estar disponíveis em uma plataforma pública de compartilhamento de código. O uso do [github](www.github.com) é aconselhado ;-)
+
+A estrutura e critérios dos entregáveis são:
+
+* Requisitos/Critérios: O mínimo que deve ser feito.
+ * Ser divertido
+ * Ser Ubíquo
+ * Utilizar o middleware uOS
+ * Ser minimamente complexo
+* Pontos Positivos: Contam positivamente ao trabalho.
+ * Ter testes
+ * Usar a engine uImpala
+* Pontos Negativos: Contam negativamente ao trabalho.
+ * Código de baixa qualidade
+* Entregáveis: O que será entregue
+ * Definição do Jogo: 
+   * Pelo menos 4 parágrafos onde possa entender cada um dos elementos do jogo (Mecânica, Interace, História e Tecnologia)
+    * Entregue junto com o fonte.
+ * Código Fonte :
+   * Deve estar disponível em algum serviço de código aberto (GitHub, SourceForge, BitBucket, Google Code, etc)
+ * Apresentação (15 minutos):
+   * Apresentação sobre o Jogo 
+   * Live Demo
 
 
 Contato
