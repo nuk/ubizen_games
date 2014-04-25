@@ -41,3 +41,19 @@ A qualquer momento o jogador pode digitar a sequencia da solução do mistério 
 
 Tecnologia
 ============
+
+O Jogo consiste em uma aplicação executando em um dispositivo fixo no ambiente (como um PC). Ele se comunica com os recursos presentes nos demais dispositivos para a execução da experiência do jogo.
+
+
+- *Ambiente* : O Jogo pode ser realizado em qualquer ambiente contendo os dispositivos necessários. É aconselhado que se jogue em ambientes fechados devido a presença de PCs e Laptops. A existência de outros cômodos torna a experiẽncia mais rica e dinâmica. Para os testes iniciais, usaremos o laboratório Laico onde temos a presença dos dispositivos necessários para a execução do jogo.
+- *Dispositivos* : O Jogo se baseia em dois tipos de dispositivos:
+ - *PCs e Laptops* : Que representam os locais do jogo. Eles devem possuir recursos de **console** e de **som**.
+ - *Celulares* : Representam os jogadores. Eles devem possuir os recursos de **console** e de **retorno tátil** usado para interagir com os jogadores.
+- *Recursos e Serviços* :
+ - *Console*: Permite a interação textual dos jogadores.
+  - Serviço de *Imprimir Mensagem* : Exibe uma mensagem textual na tela desejada de forma síncrona.
+  - Serviço de *Emitir Mensagem* : Emite uma mensagem textual de forma assíncrona. A mensagem deve ser digitada no dispositivo alvo.
+ - *Som*:
+  - Serviço de *Tocar Som* : Reproduz um arquivo de audio de forma síncrona no dispositivo desejado.
+ - *Retorno Tátil*:
+  - Serviço de *Vibrar* : Emite uma vibração na intensidade desejada de forma síncrona.
