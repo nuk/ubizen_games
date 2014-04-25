@@ -2,6 +2,14 @@ uClue é uma variação do jogo [Detetive](http://pt.wikipedia.org/wiki/Detetive
 
 História
 ============
+
+```
+História também é conhecida como Narrativa. 
+Ela define a sequencia de eventos do jogo. 
+Também define a motivação daqueles que jogam ou razão por trás do jogo.
+```
+
+
 Num momento de descontração sua você recebe uma mensagem em seu celular. Dona Maria, velha conhecida, pede a sua ajuda de maneira urgente.
 Sem mais informações, você apenas sabe que é uma questão de vida ou morte.
 Dona Maria te solicita que vá a sua casa o mais rápido possível.
@@ -19,6 +27,10 @@ E boa sorte.
 
 Estética
 ============
+```
+A Estética (ou Interface) define como o jogo estimula os sentidos do Jogador trazendo imersão a realidade criada.
+```
+
 O jogo se utiliza de da troca de mensagens textuais para informar o que está acontecendo no jogo. O uso de textos é limitante a imersão, mas possibilita que dados individuais e públicos sejam trocados de forma adequada.
 Sons são utilizados para informar os locais onde os eventos ocorrem na casa. A utilização de um estímulo auditivo causa uma maior imersão, simulando a ocorrência dos eventos dentro da casa. 
 Por fim, um retorno tátil (vibração) é usado para eventos de maior impacto (como a queda de um objeto pesado, ou o fechar de uma porta).
@@ -27,6 +39,12 @@ Por fim, um retorno tátil (vibração) é usado para eventos de maior impacto (
 
 Mecânica
 ============
+```
+A Mecânica define as regras do jogo. 
+Como os elementos interagem entre si.
+Como se progride no jogo.
+Como se ganha ou perde.
+```
 
 A cada 1 minuto, um evento ocorre em algum dos cômodos da casa. Dispositivos fixos (como PCs e Laptops) representam estes locais. Os jogadores devem correr até aquele cômodo pois na tela correspondente terá uma pegunta para ser respondida. Essa pergunta tem por objetivo comprovar que o jogador chegou aquele local a tempo. 
 
@@ -41,7 +59,10 @@ A qualquer momento o jogador pode digitar a sequencia da solução do mistério 
 
 Tecnologia
 ============
-
+```
+A tecnologia define como o jogo é operacionalizado.
+Como o mundo virtual criado é mapeado no mundo real.
+```
 O Jogo consiste em uma aplicação executando em um dispositivo fixo no ambiente (como um PC). Ele se comunica com os recursos presentes nos demais dispositivos para a execução da experiência do jogo.
 
 
