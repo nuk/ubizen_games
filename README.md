@@ -34,7 +34,8 @@ Uma lista de jogos ubíquos de referência pode ser encontrada [aqui](https://gi
 Datas Importantes
 ============
  * 05/04 - Prazo Limite para registrar se vai fazer o trabalho em dupla ou individual.
- * 19/04 - Prazo Limite para ter a primeira versão da Definição do Jogo
+ * 19/04 - Prazo Limite para ter a primeira versão da Definição do Jogo.
+ * 24/04 - Apresentação do Plano de Jogo e os desafios da implementação.
  * 28/06 - Apresentação Final e Baseline do Código Fonte a ser avaliado.
 
 Entregáveis
