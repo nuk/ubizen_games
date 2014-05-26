@@ -72,9 +72,9 @@ O Jogo consiste em uma aplicação executando em um dispositivo fixo no ambiente
  - *Celulares* : Representam os jogadores. Eles devem possuir os recursos de **console** e de **retorno tátil** usado para interagir com os jogadores.
 - *Recursos e Serviços* :
  - *Console*: Permite a interação textual dos jogadores.
-  - Serviço de *Imprimir Mensagem* : Exibe uma mensagem textual na tela desejada de forma síncrona.
-  - Serviço de *Emitir Mensagem* : Emite uma mensagem textual de forma assíncrona. A mensagem deve ser digitada no dispositivo alvo.
+   - Serviço de *Imprimir Mensagem* : Exibe uma mensagem textual na tela desejada de forma síncrona.
+   - Serviço de *Emitir Mensagem* : Emite uma mensagem textual de forma assíncrona. A mensagem deve ser digitada no dispositivo alvo.
  - *Som*:
-  - Serviço de *Tocar Som* : Reproduz um arquivo de audio de forma síncrona no dispositivo desejado.
+   - Serviço de *Tocar Som* : Reproduz um arquivo de audio de forma síncrona no dispositivo desejado.
  - *Retorno Tátil*:
-  - Serviço de *Vibrar* : Emite uma vibração na intensidade desejada de forma síncrona.
+   - Serviço de *Vibrar* : Emite uma vibração na intensidade desejada de forma síncrona.
