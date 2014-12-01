@@ -33,10 +33,10 @@ Uma lista de jogos ubíquos de referência pode ser encontrada [aqui](https://gi
 
 Datas Importantes
 ============
- * 05/04 - Prazo Limite para registrar se vai fazer o trabalho em dupla ou individual.
- * 19/04 - Prazo Limite para ter a primeira versão da Definição do Jogo.
- * 24/04 - Apresentação do Plano de Jogo e os desafios da implementação.
- * 28/06 - Apresentação Final e Baseline do Código Fonte a ser avaliado.
+ * <strike>05/04 - Prazo Limite para registrar se vai fazer o trabalho em dupla ou individual.</strike>
+ * <strike>19/04 - Prazo Limite para ter a primeira versão da Definição do Jogo.</strike>
+ * <strike>24/04 - Apresentação do Plano de Jogo e os desafios da implementação.</strike>
+ * <strike>28/06 - Apresentação Final e Baseline do Código Fonte a ser avaliado.</strike>
 
 Entregáveis
 ===========
@@ -68,6 +68,12 @@ A estrutura e critérios dos entregáveis são:
    * Apresentação sobre o Jogo 
    * Live Demo
 
+Um exemplo de como fazê-lo está no arquivo [uClue.md](https://github.com/nuk/ubizen_games/blob/master/uClue.md)
+
+Resultado Final
+============
+
+O resultado final apresentado pelos grupos se encontra listado [aqui](https://github.com/nuk/ubizen_games/blob/master/groups.md). Todos os grupos se encontram de parabéns pelo trabalho realizado.
 
 Contato
 ============
